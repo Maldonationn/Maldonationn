@@ -1,17 +1,17 @@
-💻 Actualmente cursando Ingeniería en Software, me apasiona el desarrollo y la aplicación de soluciones tecnológicas innovadoras. Mi formación y experiencia en programación, análisis de datos y machine learning me han permitido adquirir una sólida base técnica y analítica.
+💻 Actualmente cursando Ingeniería en Software, me apasiona desarrollar y aplicar soluciones tecnológicas innovadoras. Mi formación y experiencia abarcan programación y DevOps, lo cual me ha dado una base técnica y analítica sólida.
 
 🔹 Lenguajes y herramientas:
-🔹Programación: 𝐏𝐲𝐭𝐡𝐨𝐧 y sus principales librerías: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
-🔹Bases de datos: 𝐒𝐐𝐋
-🔹Visualización de datos: 𝐓𝐚𝐛𝐥𝐞𝐚𝐮, Power BI 
-🔹Machine Learning: Modelos de aprendizaje supervisado, no supervisado, refuerzo
-🔹NLP
 
-📊 Con un enfoque en matemáticas y estadística, me gusta aprovechar estas habilidades para resolver problemas complejos y crear modelos predictivos que impulsen la toma de decisiones informadas.
+    🖥️ Programación: Python y Java
+    🔧 DevOps:
+        🗃️ Control de versiones: Git, GitHub, GitLab, Bitbucket
+        🚀 CI/CD: Jenkins, GitLab CI/CD, CircleCI, Travis CI, Azure DevOps, GitHub Actions
+        📦 Orquestación y contenedores: Docker, Kubernetes, OpenShift, Helm
+        🤖 Automatización y configuración: Ansible, Chef, Puppet, SaltStack, Terraform
+        📊 Monitoreo y observabilidad: Prometheus, Grafana, ELK Stack, Splunk, Nagios, Datadog
+        🛠️ Infraestructura como código (IaC): Terraform, CloudFormation, Pulumi
+        ☁️ Aprovisionamiento en la nube: AWS, Google Cloud Platform, Microsoft Azure
+        🐧 Administración de sistemas: Linux (gestión de servidores y scripting)
+    💾 Bases de datos: SQL
 
-🔍 Siempre busco nuevos retos y oportunidades para seguir creciendo en el campo de la ingeniería de software, la ciencia de datos y la inteligencia artificial.
-
-<!---
-Maldonationn/Maldonationn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 Siempre busco nuevos retos para crecer en ingeniería de software y DevOps.
