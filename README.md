@@ -2,7 +2,7 @@
 
 🔹 Lenguajes y herramientas:  
 
-    🖥️ Programación: Python y Java 
+    🖥️ Programación: Python y Java
     🔧 DevOps:
         🗃️ Control de versiones: Git, GitHub, GitLab, Bitbucket
         🚀 CI/CD: Jenkins, GitLab CI/CD, CircleCI, Travis CI, Azure DevOps, GitHub Actions
