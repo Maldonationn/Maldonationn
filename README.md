@@ -14,4 +14,4 @@
         🐧 Administración de sistemas: Linux (gestión de servidores y scripting)
     💾 Bases de datos: SQL
 
-🔍 Siempre busco nuevos retos para crecer en ingeniería de software y DevOps.
+🔍 Siempre busco nuevos retos para crecer en Ingeniería de software y DevOps.
