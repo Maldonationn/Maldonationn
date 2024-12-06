@@ -1,7 +1,7 @@
 💻 Actualmente cursando Ingeniería en Software, me apasiona desarrollar y aplicar soluciones tecnológicas innovadoras. Mi formación y experiencia abarcan programación y DevOps, lo cual me ha dado una base técnica y analítica sólida. 
 
 🔹 Lenguajes y herramientas:  
-  
+   
     🖥️ Programación: Python y Java 
     🔧 DevOps: 
         🗃️ Control de versiones: Git, GitHub, GitLab, Bitbucket
