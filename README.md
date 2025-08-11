@@ -1,30 +1,20 @@
-## 👨‍💻 Estudiante de Ingeniería de Software con especialización en Ciberseguridad
+Estudiante de Ingeniería de Software con enfoque en DevOps y Cloud Computing.
+Apasionado por la automatización, la integración continua y la optimización de infraestructuras en la nube, con el objetivo de mejorar la disponibilidad, escalabilidad y seguridad de los sistemas.
 
-Me apasiona proteger sistemas, redes y aplicaciones, anticipándome a amenazas y construyendo defensas robustas que garanticen la **confidencialidad, integridad y disponibilidad** de la información.
+Mi enfoque combina infraestructura como código, automatización de despliegues y observabilidad, aplicando las mejores prácticas de integración y entrega continua (CI/CD) para entornos de desarrollo y producción.
 
-Mi enfoque se centra en la **gestión proactiva de vulnerabilidades**, la implementación de **controles de seguridad**, y la **automatización de procesos** para mejorar la postura de seguridad en entornos empresariales.
+🔹 Lenguajes y herramientas:
 
----
+💻 Programación & Scripting: Python, Bash
+🚀 CI/CD: GitHub Actions, GitLab CI/CD, Jenkins
+📦 Contenedores: Docker, Kubernetes
+☁️ Cloud: AWS, Azure, GCP (IAM, redes, almacenamiento, políticas)
+⚙️ Infraestructura como código: Terraform, Ansible
+🛡 Seguridad en entornos DevOps: Configuración segura de servidores, gestión de secretos, hardening de sistemas
+📜 Control de versiones: Git, GitHub, GitLab
+📈 Monitoreo y observabilidad: Prometheus, Grafana, ELK Stack, Splunk
+🐧 Administración de sistemas: Linux (shell scripting, logs, automatización)
+🔒 Buenas prácticas de seguridad: CIS Benchmarks, OWASP DevSecOps
 
-### 🧰 Lenguajes y herramientas
-
-- 🖥️ **Programación:** Python  
-- 🔐 **Seguridad ofensiva y defensiva:** Nmap, Wireshark, Metasploit, Burp Suite  
-- 🛡️ **Gestión de vulnerabilidades:** Nessus, OpenVAS, Qualys  
-- 📜 **Control de versiones:** Git, GitHub, GitLab  
-- 🧪 **Pruebas de seguridad:** OWASP ZAP, Nikto  
-- 🔐 **Autenticación y control de acceso:** LDAP, Active Directory, MFA  
-- 🔎 **Monitoreo y detección:** Wazuh, Snort, Suricata, Splunk, OSSEC  
-- 🔒 **SIEM/SOAR:** Splunk, IBM QRadar  
-- ☁️ **Seguridad en la nube:** AWS, Azure, GCP (IAM, cifrado, políticas)  
-- 🐧 **Administración de sistemas:** Linux (hardening, logs, scripting)  
-- 📁 **Criptografía aplicada:** OpenSSL, GPG, cifrado simétrico/asimétrico  
-- 📚 **Estándares y cumplimiento:** ISO 27001, NIST, OWASP, CIS  
-
----
-
-### 🎯 Objetivo
-
-Busco activamente una oportunidad para aplicar mis habilidades técnicas y mi mentalidad de mejora continua en un rol de **Ciberseguridad ofensiva o defensiva**.
-
-> ¡Conectemos para hablar sobre cómo puedo aportar valor a tu equipo!
+Actualmente, busco una oportunidad para aplicar mis conocimientos en DevOps, automatización y cloud, contribuyendo a la optimización y seguridad de infraestructuras en entornos ágiles.
+¡Conectemos para explorar cómo puedo aportar valor a tu equipo!
